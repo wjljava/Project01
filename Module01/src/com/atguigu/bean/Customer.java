@@ -1,13 +1,10 @@
 package com.atguigu.bean;
 
-import com.sun.org.apache.xpath.internal.operations.String;
-
 import java.util.ArrayList;
 import java.util.List;
 
 //这是单行注释
 public class Customer {
-
 
     private static final Customer cst = new Customer();
 
